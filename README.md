@@ -6,4 +6,4 @@ Examples of Android Interface
 
 Example Simple Wizard with fragments in Android
 
-![davidcasr](https://raw.github.com/davidcasr/AndroidInterfaces/wizard/master/example_wizard.png)
+![davidcasr](https://raw.github.com/davidcasr/AndroidInterfaces/Wizard/master/example_wizard.png)
