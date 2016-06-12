@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Wizard</string>
+
+    <string name="wizard_next">Siguiente</string>
+    <string name="wizard_previous">Anterior</string>
+    <string name="wizard_finish">Finalizar</string>
+
+    <string name="lorem_ipsum_short">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</string>
+    <string name="lorem_ipsum_long">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+
+</resources>
+
