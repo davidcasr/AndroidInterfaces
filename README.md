@@ -2,7 +2,7 @@
 
 Examples of Android Interface
 
-##Wizard
+## Wizard
 
 Example Simple Wizard with fragments in Android
 
